@@ -1,0 +1,13 @@
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\bin\Debug\ktformdemo.exe
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\bin\Debug\ktformdemo.pdb
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\obj\Debug\ktformdemo.csprojAssemblyReference.cache
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\obj\Debug\ktformdemo.ktform.resources
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\obj\Debug\ktformdemo.Properties.Resources.resources
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\obj\Debug\ktformdemo.csproj.GenerateResource.cache
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\obj\Debug\ktformdemo.exe
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\obj\Debug\ktformdemo.pdb
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\bin\Debug\ktformdemo.exe.manifest
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\bin\Debug\ktformdemo.application
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\obj\Debug\ktformdemo.exe.manifest
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\obj\Debug\ktformdemo.application
+C:\Users\TOUSIF\Desktop\HAckathonn\ktformdemo\ktformdemo\bin\Debug\ktformdemo.exe.config
